@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @felipeccostaDev
+- 👀 I'm interested in being one of the best programmers. (impossible)
+- 🌱 I’m currently learning Java but I want to learn JavaScript and Python.
